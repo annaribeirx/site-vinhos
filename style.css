@@ -1,20 +1,27 @@
+h2 {
+    text-align: center;
+}
+header img{
+    width: 10%;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5f5;
-    color: #333;
+    background-color: #610404;
+    color: #ffffff;
 }
 
 header {
-    background-color: #4a0f2c; /* Cor vinho */
+    background-color: #000000;
     color: #fff;
-    padding: 10px 20px;
-    text-align: center;
+    padding: 10px;
 }
 
 h1 {
-    color: #000;
+    text-align: center;
+    color: #f7f4f4;
 }
 
 select, option {
